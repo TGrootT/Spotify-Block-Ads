@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1iIKLNraGdE3PWB-oGhuH-jVgVoMlC0KD/view?usp=shari
 
 # For the best experience, buy premium on spotify :Đ
 
-LƯU Ý: 
+# LƯU Ý: 
 Mình để bản cài lẫn scrip ở trong link nhé
 + Scrip chỉ hoạt động khi cài đúng phiên bản mà mình để sẵn trong link nếu cài phiên bản khác thì scrip sẽ không hoạt động nhé ( Spotify v 1.0.8 )
 + Tắt antivirus trước khi chạy scrip nhé
