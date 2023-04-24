@@ -14,7 +14,7 @@ Mình để bản cài lẫn scrip ở trong link nhé
 + Tắt antivirus trước khi chạy scrip nhé
 + Chạy scrip dưới quyền Administrator
 
-Scrip hiện rồi tắt vui lòng chạy lệnh sau:
+# Scrip hiện rồi tắt vui lòng chạy lệnh sau:
 
 host C:\Windows\System32\drivers\etc
 
